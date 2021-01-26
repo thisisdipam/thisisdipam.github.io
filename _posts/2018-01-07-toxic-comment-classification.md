@@ -1,7 +1,7 @@
 ---
 layout: post-right-sidebar
 title:  "Toxic Comment Classification"
-author: imrahulr
+author: dipampaul17
 categories: [ NLP, Kaggle ]
 image: assets/images/2.jpg
 description: Deep learning to identify and classify toxic comments on online forums.
