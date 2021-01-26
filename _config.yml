@@ -1,10 +1,10 @@
 # Site
-name: "Dipam Paul"
-title: "Dipam Paul"
+name: "DIPAM PAUL"
+title: "DIPAM PAUL"
 description: "My Personal Website"
 meta_description: "My Personal Website"
-logo: 'assets/images/logo.png'
-favicon: 'a0d3733d8893d70aa12a6d654823a973.jpg'
+logo: 'assets/images/a0d3733d8893d70aa12a6d654823a973_2aO_icon.ico'
+favicon: 'a0d3733d8893d70aa12a6d654823a973_2aO_icon.ico'
 paginate: 6
 paginate_path: "/projects/page:num/"
 baseurl: '/'
@@ -15,9 +15,9 @@ disqus: 'myrah'
 
 # Authors
 authors:
-  imrahulr:
-    name: Dipam Paul
-    display_name: Dipam 
+  thisisdipam:
+    name: DIPAM PAUL
+    display_name: DIPAM PAUL 
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: dipampaul17@gmail.com
     web: https://www.linkedin.com/in/dipam-paul-36672b15b/
