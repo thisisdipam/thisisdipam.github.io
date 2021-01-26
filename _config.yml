@@ -1,6 +1,6 @@
 # Site
-name: "Rahul Rade"
-title: "Rahul Rade"
+name: "Dipam Paul"
+title: "Dipam Paul"
 description: "My Personal Website"
 meta_description: "My Personal Website"
 logo: 'assets/images/logo.png'
@@ -8,7 +8,7 @@ favicon: 'assets/images/favicon.ico'
 paginate: 6
 paginate_path: "/projects/page:num/"
 baseurl: '/'
-email: 'rsrade14@gmail.com'
+email: 'dipampaul17@gmail.com'
 google_analytics: 'UA-141139264-1'
 disqus: 'myrah'
 # sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>'
@@ -16,13 +16,13 @@ disqus: 'myrah'
 # Authors
 authors:
   imrahulr:
-    name: Rahul Rade
-    display_name: Rahul
+    name: Dipam Paul
+    display_name: Dipam 
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: rsrade14@gmail.com
-    web: https://www.linkedin.com/in/rsrade/
-    twitter: https://twitter.com/ImRahulR97
-    description: "Machine Learning Enthusiast"
+    email: dipampaul17@gmail.com
+    web: https://www.linkedin.com/in/dipam-paul-36672b15b/
+    twitter: https://twitter.com/theboyfrom_kol
+    description: "On a lifelong journey to learn, solve, practice and raconteur with data."
 
 # Plugins
 plugins: 
