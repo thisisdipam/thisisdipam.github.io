@@ -4,7 +4,7 @@ title: "Dipam Paul"
 description: "My Personal Website"
 meta_description: "My Personal Website"
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+favicon: 'a0d3733d8893d70aa12a6d654823a973.jpg'
 paginate: 6
 paginate_path: "/projects/page:num/"
 baseurl: '/'
